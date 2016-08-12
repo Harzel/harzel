@@ -244,10 +244,10 @@ a {
   .site-footer {
     font-size: 0.9rem; } }
 
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.htable  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.htable td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.htable th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 
-.tg .tg-aqh{text-align:center;vertical-align:top}
+.htable .htable-aqh{text-align:center;vertical-align:top}
